@@ -1,0 +1,2 @@
+# CryptoWallet
+Multisig cryptocurrency wallet
